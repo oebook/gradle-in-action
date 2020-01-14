@@ -1,8 +1,3 @@
 {
-  "plugins": ["disqus"],
-  "pluginsConfig": {
-    "disqus": {
-      "shortName": "lippi"
-    }
-  }
+  "title":"Gradle实战(中文版)"
 }
